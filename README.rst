@@ -28,7 +28,7 @@ If you have ideas for other panels please let us know.
 Installation
 ============
 
-#. Add the `debug_toolbar` directory to your Python path.
+#. Add the `django-debug-toolbar` directory to your Python path.
 
 #. Add the following middleware to your project's `settings.py` file:
 
